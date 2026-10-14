@@ -1,4 +1,4 @@
-Week 1: Energy Python Foundations (no libraries)
+# Week 1: Energy Python Foundations (no libraries)
 
 The aim of this project is to write small Python programs that:
 1.	Convert MW to kW.
